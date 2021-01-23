@@ -1,4 +1,4 @@
-My name is Nanda Fadhil Azman. I am an industrial engineering graduated who loves to solve problem with code. Here is a repository to store my personal project that has been deployed.
+My name is Nanda Fadhil Azman. I am an industrial engineering graduated who loves to solve problem with code.
 
 ## Projects
 1. A minesweeper game project using vue typescript. 
