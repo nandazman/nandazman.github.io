@@ -20,3 +20,6 @@ My name is Nanda Fadhil Azman. I am an industrial engineering graduated who love
 5. A brick game using vanila javascript. 
     - [Repository](https://github.com/nandazman/brick-game) 
     - [Demo](https://nandazman.github.io/brick-game/)
+
+## Resume
+Please kindly download my resume [here](https://github.com/nandazman/nandazman.github.io/raw/main/Nanda%20Fadhil%20Azman%20Resume.pdf).
