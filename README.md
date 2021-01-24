@@ -15,7 +15,7 @@ My name is Nanda Fadhil Azman. I am an industrial engineering graduated who love
 
 4. A simple todo list using svelte. 
     - [Repository](https://github.com/nandazman/svelte-todo) 
-    - [Demo](https://nandazman.github.io/vue-minesweeper/)
+    - [Demo](https://nandazman.github.io/svelte-todo/)
 
 5. A brick game using vanila javascript. 
     - [Repository](https://github.com/nandazman/brick-game) 
