@@ -21,5 +21,9 @@ My name is Nanda Fadhil Azman. I am an industrial engineering graduated who love
     - [Repository](https://github.com/nandazman/brick-game) 
     - [Demo](https://nandazman.github.io/brick-game/)
 
+6. A simple pinterest clone using react. (development)
+    - [Repository](https://github.com/nandazman/react-pinterest)
+    - [Demo](https://github.com/nandazman/react-pinterest)
+
 ## Resume
 Please kindly view my resume <a href="https://github.com/nandazman/nandazman.github.io/blob/main/Nanda%20Fadhil%20Azman%20Resume.pdf" target="_blank">here</a> or download it [here](https://github.com/nandazman/nandazman.github.io/raw/main/Nanda%20Fadhil%20Azman%20Resume.pdf).
