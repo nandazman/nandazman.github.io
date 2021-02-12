@@ -1,4 +1,4 @@
-My name is Nanda Fadhil Azman. I am an industrial engineering graduated who loves to solve problem with code.
+My name is Nanda Fadhil Azman. I am an industrial engineering graduated who loves to solve problem with code. Go to my github account in [here](https://github.com/nandazman)
 
 ## Projects
 1. A minesweeper game project using vue typescript. 
